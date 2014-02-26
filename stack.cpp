@@ -1,11 +1,9 @@
 /*
-* @author shahab zebari 
-* stack class 
+*   @author shahab zebari 
+*   stack class 
+*   Copyrights for You,Me and Us.
 */
 
-/*
-*
-*/
 
 template<class T>
 class Stack
